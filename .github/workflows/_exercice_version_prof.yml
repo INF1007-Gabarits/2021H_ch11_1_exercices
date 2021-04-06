@@ -4,7 +4,6 @@ on:
   workflow_dispatch:
   push:
     paths: 
-      - _exercice_version_prof.py
       - _game_version_prof.py
 
 jobs:
